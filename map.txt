@@ -1,0 +1,155 @@
+10
+Courtyard
+Courtyard
+It's dark and creepy here. Better get inside quick. 
+3
+cross
+Keeps the evil spirits away.
+4
+2
+glass shard
+Who the hell broke the window...?
+8
+9
+crowbar
+I wonder who left this here?
+10
+15
+Hallway,no,Garage,Toolshed,no,no
+Garage
+Garage
+The garage door is half open. It definitely sounds like there are a lot of rats here.
+2
+basketball hoop
+Tiny little hoop for a baby.
+3
+5
+branches
+Gardener hasn't been here for a while, it seems.
+3
+6
+Courtyard,no,Street,no,no,Cellar
+Hallway
+Hallway
+Old and musty. I bet no one has been here in ages.
+1
+keys
+Leads to an unknown room I guess.
+10
+2
+no,no,Courtyard,LivingRoom,Bedroom,no
+LivingRoom
+Living Room
+Something smells terrible in here.
+2
+rockingchair
+Where the ghosts sit when they're tired.
+1
+7
+ouija board
+Lets you talk to the friendly (and not so friendly) spirits in the house.
+10
+4
+no,Hallway,no,no,Kitchen,no
+Kitchen
+Kitchen
+The wooden floor has rotten and tiles on the wall are falling off.
+5
+knife
+Rusty, but still pretty sharp.
+10
+15
+broken plate
+Beautiful China plates. What a shame.
+8
+10
+dish soap
+Makes dishes squeeky clean. :)
+20
+1
+chocolate bar
+Perfect grab-n-go snack, if it's not expired that is.
+15
+1
+mug
+The perfect container for a morning cup of joe.
+10
+8
+no,no,no,Pantry,no,LivingRoom
+Cellar
+Cellar
+Dark and creepy. I woudldn't go in there even if there was free wine.
+4
+empty wine bottles
+Someone has been drinking a little too much.
+10
+10
+broken lock
+Not sure who cut the lock? Must've been thirsty for some wine.
+10
+2
+candy wrapper
+Who left those?! Littering is bad!
+15
+1
+cane
+Helps old people walk.
+10
+7
+no,no,no,no,Garage,no
+Street
+Street
+Where the Uber dropped you off.
+1
+trash cans
+Remember to recycle, kids.
+3
+9
+no,no,no,no,Garage,no
+Toolshed
+Toolshed
+Tools are stored here.
+3
+screwdriver
+Perfect for building some IKEA furniture.
+10
+6
+ladder
+Helps you reach things you can't quite reach.
+2
+9
+chainsaw
+Cuts down trees in seconds. Or people....
+8
+25
+no,Courtyard,no,no,no,no
+Bedroom
+Bedroom
+Not nearly as nice and cozy as your own bedroom.
+2
+bedframe
+Where the mattress sits.
+1
+4
+books
+Intro to Programming and Problem Solving Using Scala? Seems pretty interesting.
+5
+20
+no,no,no,no,no,Hallway
+Pantry
+Pantry
+Where all the goodies are supposed to be stored.
+3
+soda
+Nice and unhealthy beverage.
+5
+7
+canned food
+Good backup for an apocoypse. Probably long expired by now though.
+7
+5
+recipe book
+Teaches you how to cook your favorite dishes.
+10
+5
+no,Kitchen,no,no,no,no
